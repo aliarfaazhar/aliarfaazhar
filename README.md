@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on A Flutter project at Avialdo Solutions, focusing on creating scalable and efficient mobile applications.<br>👯 I’m looking to collaborate on open-source Flutter projects or innovative mobile apps that push the boundaries of user experience.<br>🤝 I’m looking for help with improving my knowledge of advanced backend integrations and exploring new state management techniques in Flutter.<br>🌱 I’m currently learning about advanced CI/CD pipelines, and DevOps practices, and expanding my skills in Python and Django for backend development.<br>💬 Ask me about building and releasing Flutter apps, leading mobile development teams, or managing CI/CD processes.<br>
 
 
