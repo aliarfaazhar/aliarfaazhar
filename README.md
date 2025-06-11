@@ -23,7 +23,7 @@ I'm a Software Engineer from Pakistan 🇵🇰, focused on building scalable, ef
 
 ## 📈 GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliarfaazhar&show_icons=true&theme=tokyonight)
 
 ---
 
